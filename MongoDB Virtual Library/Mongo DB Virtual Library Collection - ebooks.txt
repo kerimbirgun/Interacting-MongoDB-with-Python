@@ -1,0 +1,23 @@
+[
+  
+{"book_id":123456789, "title": "Chess","primary_author": "Stefan Zweig",
+"date_of_publication":{"$date":"2016-04-06T04:00:00.000+00:00"},
+"number_pages":128,"publisher": "Columbia", "translator": true,"fiction": true
+,"topics": "fiction"},
+
+{"book_id":984566781, "title": "Machine Learning with R",
+"primary_author": "Diego Maradona",
+"date_of_publication":{"$date":"2001-03-03T04:00:00.000+00:00"},
+"number_pages":541,"publisher": "Xzatz", "translator": true,"fiction": false
+,"topics": "Machine Learning"},
+
+{"book_id":444313722, "title": "War and Peace","primary_author": "Lev Tolstoy",
+"date_of_publication":{"$date":"1955-07-01T04:00:00.000+00:00"},
+"number_pages":771,"publisher": "Kremlin", "translator": true,"fiction": true
+,"topics": "fiction"}
+
+]
+
+
+
+

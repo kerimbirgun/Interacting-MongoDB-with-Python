@@ -1,0 +1,19 @@
+
+
+[
+{"user_id":1, "name": "Micheal Jackson","phone": 3251711000,
+"address":"113th W 525","university_affil": "Columbia"},
+
+{"user_id":2, "name": "Tarkan","phone": 2151374000,
+"address":"101th W 403","university_affil": "Columbia"},
+
+{"user_id":3, "name": "Darth Vade","phone": 4544734000,
+"address":"108th E 203","university_affil": "Bogazici"},
+
+{"user_id":4, "name": "Obi Wan Kenobi","phone": 7852743000,
+"address":"81th W 45","university_affil": "North Carolina"},
+
+{"user_id":5, "name": "Legolas","phone": 9843723100,
+"address":"45th E 55","university_affil": "Georgetown"}
+]
+
